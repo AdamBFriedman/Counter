@@ -1,1 +1,1 @@
-Counter app project for job interview
+Counter app project
